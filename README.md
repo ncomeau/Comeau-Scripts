@@ -1,2 +1,2 @@
-# Comeau-Scripts
+# CB Slack
 Minimal skills, maximum effort
